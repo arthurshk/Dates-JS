@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+#dates-list {
+    margin-top: 20px;
+}
+
+.date-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.date-type {
+    font-weight: bold;
+    text-transform: capitalize;
+}
